@@ -1,0 +1,16 @@
+.slider {
+    height: 300px;
+}
+
+.slider-slide {
+    padding-top: 40px;
+    color: #000;
+    background-color: #fff;
+    text-align: center;
+
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+}
+
+.slider-pager-page i {
+}
